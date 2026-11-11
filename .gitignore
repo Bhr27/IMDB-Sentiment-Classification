@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.DS_Store
+phase3_sarcasm/checkpoints/
+phase3_sarcasm/data/reddit_movie_*.csv
+phase4_crawler/gathered_data/
+*.xlsx
+*.npz
+results/phase5/streamlit_server.log
+results/Basic/
+results/TEAM_REPORT_FA.md
